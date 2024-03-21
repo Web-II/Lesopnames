@@ -8,4 +8,4 @@ Hoofdstuk 3: [Events, Closures, exceptions](https://hogent.sharepoint.com/:v:/s/
 
 Hoofdstuk 4: [OOP in javascript](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EeWDF-gnglRHhjK_Uq5xEA4BU2kY-WUqgkNendkBBzoK0w?e=mY5W0D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Hoofdstuk 4: [OOP in javascript: inheritance](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EeIURIGunpFAvtiLiwKHck0BmFXEOGkMc5YpSeQ_RX82IA?e=GpEb1c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 4: [OOP in javascript: inheritance]([https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EeIURIGunpFAvtiLiwKHck0BmFXEOGkMc5YpSeQ_RX82IA?e=GpEb1c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://github.com/Web-II/Lesopnames.git)https://github.com/Web-II/Lesopnames.git)
