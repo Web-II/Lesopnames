@@ -11,3 +11,5 @@ Hoofdstuk 4: [OOP in javascript](https://hogent.sharepoint.com/:v:/s/WebDevelopm
 Hoofdstuk 4: [OOP in javascript: inheritance](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EQdqyYUOsxdJl1ospOmsYjsBdeCmBVY23c1m6PO5RCRGIQ?e=DvVZcS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Hoofdstuk 5: [Functioneel programmeren](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EZ9LfxOPl5BNjqxOSKpznTUBB22yiuuwgK8v2DdwUCBPZw?e=YudOrB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Hoofdstuk 6: [WebStorage](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EZQ_Dn4ZmHNLq-HDVHfcFX0Batln3Z8KJTnU9jcRFKv5KA?e=0A88T3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
