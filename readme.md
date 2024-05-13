@@ -15,3 +15,5 @@ Hoofdstuk 5: [Functioneel programmeren](https://hogent.sharepoint.com/:v:/s/WebD
 Hoofdstuk 6: [WebStorage](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EZQ_Dn4ZmHNLq-HDVHfcFX0Batln3Z8KJTnU9jcRFKv5KA?e=0A88T3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Hoofdstuk 7: [DOM](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EfR0qfoTvstPli_TZxlwdhoBioEqQ3pEn38d6B1CcOAiDw?e=zCCDZY)
+
+Hoofdstuk 8: [Asynchroon javascript](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/Ef-nq2ezwbxInzQe-KG-j54BOSFciKVA1xESGFInLNMc1Q?e=oG3xsa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
