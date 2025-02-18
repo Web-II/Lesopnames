@@ -1,9 +1,9 @@
 Hoofdstuk  1: [Javascript De basis: 2025](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EVneoiIH9CBBvh5m52uv2pgBu97Hh4Zqr1ASQaIEDpUesA?e=As8eCq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+Hoofdstuk 2: [Functies, arrays, modules](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EbaYWTP0w0lEsjcJ2yLz4ysBMYr1XoT4Iw9DrRuVHa-khw?e=X0vIbG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 Opnames vorig jaar: 
 
-
-Hoofdstuk 2: [Functies, arrays, modules](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EUTn0dln4jpIhgr10uqDPHoBFSPq-DkZ9IiceoOm8GlKlw?e=kYX9gI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Hoofdstuk 3: [Objecten, Functies, Methodes](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/Ea-QVsRfBMJBqzDBSsuJjM0BrCY_gYfV8-dKy0UFDXJPgg?e=RsqmwC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
