@@ -2,7 +2,7 @@ Hoofdstuk  1: [Javascript De basis](https://hogent.sharepoint.com/:v:/s/Studente
 
 Hoofdstuk 2: [Functies, arrays, modules](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EbaYWTP0w0lEsjcJ2yLz4ysBMYr1XoT4Iw9DrRuVHa-khw?e=X0vIbG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Hoofdstuk 3: [Objecten, Functies, Methodes](https://hogent.sharepoint.com/:v:/r/sites/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/Gedeelde%20documenten/General/Recordings/les%20web%20dev%202-20250224_091633-Opname%20van%20vergadering%201.mp4?csf=1&web=1&e=BbaiCY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 3: [Oefening H2, Objecten, Functies](https://hogent.sharepoint.com/:v:/r/sites/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/Gedeelde%20documenten/General/Recordings/les%20web%20dev%202-20250224_091633-Opname%20van%20vergadering%201.mp4?csf=1&web=1&e=BbaiCY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 Opnames vorig jaar: 
