@@ -9,8 +9,7 @@ Hoofdstuk 3: [Methods, Events, Closures, exceptions](https://hogent.sharepoint.c
 Hoofdstuk 4: [OOP in javascript](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ESiecuC8PlhHqJXLTTn5fbIBW0Bhi9skwJ4fHqaJ0QJfbA?e=YJaTtJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-Hoofdstuk 5: [Functioneel programmeren](https://hogent.sharepoint.com/:v:/r/sites/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/Gedeelde%20documenten/General/Recordings/les%20web%20dev%202-20250317_091541-Opname%20van%20vergadering.mp4?csf=1&web=1&e=79xWqv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
+Hoofdstuk 5: [Functioneel programmeren](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EQnq_mM8xO5DvXq1kpPftNYBCLHOJW20NmZYx3TyCZW_9g?e=YkfYdK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 Hoofdstuk 6: [WebStorage](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EelFjzCSudVJskv-QnSgn4gBPSvlpRVGgvARS1UKIjfa_g?e=3TxaIe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
