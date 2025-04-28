@@ -14,8 +14,9 @@ Hoofdstuk 5: [Functioneel programmeren](https://hogent.sharepoint.com/:v:/s/Stud
 
 Hoofdstuk 6: [WebStorage](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EelFjzCSudVJskv-QnSgn4gBPSvlpRVGgvARS1UKIjfa_g?e=3TxaIe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Opnames vorig jaar: 
 
-Hoofdstuk 7: [DOM](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/EfR0qfoTvstPli_TZxlwdhoBioEqQ3pEn38d6B1CcOAiDw?e=zCCDZY)
+Hoofdstuk 7: [DOM](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ETvpeXlYZQJOieLZlnWm6HoBj1Zrs0Nq5Cx4p7Qs5LyIEQ?e=OvhTVc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Opnames vorig jaar: 
 
 Hoofdstuk 8: [Asynchroon javascript](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/Ef-nq2ezwbxInzQe-KG-j54BOSFciKVA1xESGFInLNMc1Q?e=oG3xsa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
