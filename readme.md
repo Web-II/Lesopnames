@@ -17,6 +17,8 @@ Hoofdstuk 6: [WebStorage](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATI
 
 Hoofdstuk 7: [DOM](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ETvpeXlYZQJOieLZlnWm6HoBj1Zrs0Nq5Cx4p7Qs5LyIEQ?e=OvhTVc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Opnames vorig jaar: 
 
-Hoofdstuk 8: [Asynchroon javascript](https://hogent.sharepoint.com/:v:/s/WebDevelopmentIIVC/Ef-nq2ezwbxInzQe-KG-j54BOSFciKVA1xESGFInLNMc1Q?e=oG3xsa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 8 deel 1: [Asynchroon javascript](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ESSO8N42UnxBkg-CKszdYwUBUrehaXVVzoZG0MJ6GQJTVg?e=7PeMlU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+Hoofdstuk 8 deel 2: [Asynchroon javascript](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EbiOiil7LLRCh6B0AqCPpyoBNEAcxMd5Rta7w3mEHVaUTw?e=28Dwar&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
