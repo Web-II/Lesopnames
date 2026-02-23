@@ -1,10 +1,9 @@
-Hoofdstuk  1: [Javascript De basis](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQDe9iKFCQ6ITJmUIY0-4un_AUBZICq8RZVzPZpWJi2kcYg?e=9hP8IQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk  1: [Javascript De basis 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQDe9iKFCQ6ITJmUIY0-4un_AUBZICq8RZVzPZpWJi2kcYg?e=9hP8IQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
-Hoofdstuk 2: [Functies, arrays, modules 2025](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EbaYWTP0w0lEsjcJ2yLz4ysBMYr1XoT4Iw9DrRuVHa-khw?e=X0vIbG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
 
-Hoofdstuk 2: [Functies, arrays, modules 2026 (problrmrn met opname)](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQC2dWdQAoZoRpftoaY2wMhaAXqvUZvamFYnP-QZXj7EMKA?e=Tgl416&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 2: [Functies, arrays, modules 2026 ](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQC2dWdQAoZoRpftoaY2wMhaAXqvUZvamFYnP-QZXj7EMKA?e=Tgl416&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
