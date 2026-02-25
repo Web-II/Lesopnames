@@ -3,8 +3,8 @@ Hoofdstuk  1: [Javascript De basis 2026](https://hogent.sharepoint.com/:v:/s/Web
 
 
 
-Hoofdstuk 2: [Functies, arrays, modules 2026 ](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQC2dWdQAoZoRpftoaY2wMhaAXqvUZvamFYnP-QZXj7EMKA?e=Tgl416&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
+Hoofdstuk 2: [Functies, arrays 2026 ](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQC2dWdQAoZoRpftoaY2wMhaAXqvUZvamFYnP-QZXj7EMKA?e=Tgl416&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Moduels 2026 ](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQC-m3KGy4KcTJ2j8FyvaG9iARXUw2Mbzb9hwAm5Lhe52AI?e=DupPeA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
