@@ -8,7 +8,7 @@ Hoofdstuk 2: [Functies, arrays 2026 ](https://hogent.sharepoint.com/:v:/s/WebDev
 
 
 
-Hoofdstuk 3: [Oefening H2, Objecten, Functies](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EQDzWAdIUR5Ct14jpbdYWSMBg6Bh7so101-PdxBeW66OSg?e=RveDJn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 3: [Objecten, Functies (deel1) 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQA7m2M6R2TrQor_jkfAkpPEAWz1sVZoCQwOcTBAWtSl1tY?e=K75O34&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Hoofdstuk 3: [Methods, Events, Closures, exceptions](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EcnRtYXjdBFHuINJiSb8isIBMoHOub7jfcAZHzjk-BPx2w?e=KAOmme&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
