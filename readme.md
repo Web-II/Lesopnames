@@ -12,7 +12,7 @@ Hoofdstuk 3: [Objecten, Functies (deel1) 2026](https://hogent.sharepoint.com/:v:
 
 Hoofdstuk 3: [Methods, Events, Closures, exceptions](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EcnRtYXjdBFHuINJiSb8isIBMoHOub7jfcAZHzjk-BPx2w?e=KAOmme&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Hoofdstuk 4: [OOP in javascript](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ESiecuC8PlhHqJXLTTn5fbIBW0Bhi9skwJ4fHqaJ0QJfbA?e=YJaTtJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 4: [OOP in javascript](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQBNSlXjg-iJSbH29hy5mO6nAQtKE4SSZ8bdDEvpxg34lnM?e=q5caQ3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 Hoofdstuk 5: [Functioneel programmeren](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EQnq_mM8xO5DvXq1kpPftNYBCLHOJW20NmZYx3TyCZW_9g?e=YkfYdK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
