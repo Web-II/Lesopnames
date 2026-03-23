@@ -17,8 +17,7 @@ Hoofdstuk 4: [OOP in javascript 2026](https://hogent.sharepoint.com/:v:/s/WebDev
 
 Hoofdstuk 5: [Functioneel programmeren deel 1 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQCPCrByhanDTbNqweYnI6SQAbdNY61w_AwYFWPS_G1hulA?e=1bY3Xb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Hoofdstuk 5: [Functioneel programmeren deel2 2026]
-(https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQA5zOQO0hcsTYHovCDXd875Aa2CrR4ZS65kiv1NQmmjXc0?e=IU7EIk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 5: [Functioneel programmeren deel2 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQA5zOQO0hcsTYHovCDXd875Aa2CrR4ZS65kiv1NQmmjXc0?e=IU7EIk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 Hoofdstuk 6: [WebStorage](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EelFjzCSudVJskv-QnSgn4gBPSvlpRVGgvARS1UKIjfa_g?e=3TxaIe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
