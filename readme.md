@@ -1,8 +1,6 @@
 Hoofdstuk  1: [Javascript De basis 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQDe9iKFCQ6ITJmUIY0-4un_AUBZICq8RZVzPZpWJi2kcYg?e=9hP8IQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-
-
 Hoofdstuk 2: [Functies, arrays 2026 ](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQC2dWdQAoZoRpftoaY2wMhaAXqvUZvamFYnP-QZXj7EMKA?e=Tgl416&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 [Moduels 2026 ](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQC-m3KGy4KcTJ2j8FyvaG9iARXUw2Mbzb9hwAm5Lhe52AI?e=DupPeA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -20,7 +18,7 @@ Hoofdstuk 5: [Functioneel programmeren deel 1 2026](https://hogent.sharepoint.co
 Hoofdstuk 5: [Functioneel programmeren deel2 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQA5zOQO0hcsTYHovCDXd875Aa2CrR4ZS65kiv1NQmmjXc0?e=IU7EIk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-Hoofdstuk 6: [WebStorage 2026](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/EelFjzCSudVJskv-QnSgn4gBPSvlpRVGgvARS1UKIjfa_g?e=3TxaIe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 6: [WebStorage 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQDSJWSl7gSlS5OS5W4Kw_VdASz58A6cjkJQut4lVbL7D6U)
 
 
 Hoofdstuk 7: [DOM](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ETvpeXlYZQJOieLZlnWm6HoBj1Zrs0Nq5Cx4p7Qs5LyIEQ?e=OvhTVc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
