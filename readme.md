@@ -21,7 +21,7 @@ Hoofdstuk 5: [Functioneel programmeren deel2 2026](https://hogent.sharepoint.com
 Hoofdstuk 6: [WebStorage 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQDSJWSl7gSlS5OS5W4Kw_VdARMyLKbAJy8WROXcsTTHdkA?e=HDiqcn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-Hoofdstuk 7: [DOM](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ETvpeXlYZQJOieLZlnWm6HoBj1Zrs0Nq5Cx4p7Qs5LyIEQ?e=OvhTVc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Hoofdstuk 7: [DOM 2026](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQA4KjN9b0DWT7KXvXwcJNcWARE9JZTHqxvvlu-TYNbn0tQ?e=d9vyVw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 Hoofdstuk 8 deel 1: [Asynchroon javascript](https://hogent.sharepoint.com/:v:/s/Studenten-CURPBATIN1811102024-WebDevelopmentIITIGent-TIAalst/ESSO8N42UnxBkg-CKszdYwUBUrehaXVVzoZG0MJ6GQJTVg?e=7PeMlU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
