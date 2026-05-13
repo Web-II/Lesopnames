@@ -28,3 +28,5 @@ Hoofdstuk 8 deel 1: [Asynchroon javascript (Promises)](https://hogent.sharepoint
 
 
 Hoofdstuk 8 deel 2: [Asynchroon javascript (async await)](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQDY7tIDRQCdQovi6eH59flCAcSZncWh81NLgs6AdYZY3Z8?e=d9B9pU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Voorbeeldexamen: [examen 2025 EP3](https://hogent.sharepoint.com/:v:/s/WebDevelopmentII-VC/IQAWuu7U-pvnR6SI9OJfMcR9AZl9At2BwySvkv7QSL5TuDc?e=uqM4QI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
